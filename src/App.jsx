@@ -74,7 +74,7 @@ export default function App() {
 
   const landingPage = (
     <div className="landing--page">
-      <h1 className="landing--header">Quizzical</h1>
+      <h1 className="landing--header">welcome to Quizzical</h1>
       <p className="landing--text">Are you ready to test your knowledge?</p>
       <button onClick={togglePage} className="landing--button">
         Start Quiz
